@@ -9,9 +9,9 @@ and remove the issues caused by human error. As a result, it will save valuable 
 human resources and give an easy and errorless workflow.
 
 This project aims to implement an inventory management system for restaurant
-services. Inventory managers face two basic decisions such as: <br>
+services. <br><br>Inventory managers face two basic decisions such as: <br>
 i) How much additional inventory to order/produce? <br>
-ii) When to order/produce?
+ii) When to order/produce?<br><br>
 Restaurant inventory control system is a bit complex from other inventory management
 systems for its nature. Each food item is made with many different ingredients, that
 makes it more complex to keep track. Also things like local big events, certain times like
